@@ -8,7 +8,6 @@ Processing: None
 Output: The user's name as the greeting
 */
 
-
 #include <iostream>
 #include <string>
 using namespace std;
